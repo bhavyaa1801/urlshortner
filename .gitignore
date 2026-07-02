@@ -1,0 +1,25 @@
+# Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Compiled binary
+url-shortener
+
+# Go test binary
+*.test
+
+# Coverage reports
+*.out
+coverage.out
+
+# IDE
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
